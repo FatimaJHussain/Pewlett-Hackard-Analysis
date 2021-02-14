@@ -46,4 +46,6 @@ There are 1549 employees, eligible for mentorship program.:
 * 307 are Staff
 * 77 are Technique Leader
 # Summary
-By comparing the results of two deliverable , there are 90398 positions to be filled due to retirement wave.  Out of these 1549 employees are eligible for mentorship program. This shows that there is 1 mentor for every 58 new hire employees.
+By comparing the results of two deliverable , there are 90398 positions to be filled due to retirement wave.  Out of these 1549 employees are eligible for mentorship program. This shows that there is 1 mentor for every 58 new hire employees. This is very high number for each mentor, and in turns over burden the exsisting employees to mentor the new employees. 
+
+One way to ease this burden from current employees, number of mentors should be increased. Eligibility criteria for mentorship program should be relaxed and employees between January 1, 1963 and December 31, 1965 should be allowed. This way, more mentors will be available for new hires and can support new employees ina better way.
