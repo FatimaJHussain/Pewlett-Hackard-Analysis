@@ -37,15 +37,17 @@ In deliverble 2, one table of "Mentorship Eligibility" is created. Which holds t
 Figure-4: 
 Mentorship Eligibility![Mentorship Eligibility](https://github.com/FatimaJHussain/Pewlett-Hackard-Analysis/blob/main/mentorship.png)
 
-### Analysis of Deliverable 2
-There are 1549 employees, eligible for mentorship program.:
+# Summary
+In deliverable 2: There are 1549 employees, eligible for mentorship program.:
 * 63 are Assistant Engineer
 * 387 are Engineers
 * 298 are Senior Engineer
 * 417 are Senior Staff
 * 307 are Staff
 * 77 are Technique Leader
-# Summary
+
 By comparing the results of two deliverable , there are 90398 positions to be filled due to retirement wave.  Out of these 1549 employees are eligible for mentorship program. This shows that there is 1 mentor for every 58 new hire employees. This is very high number for each mentor, and in turns over burden the exsisting employees to mentor the new employees. 
 
 One way to ease this burden from current employees is; number of mentors should be increased. Eligibility criteria for mentorship program should be relaxed and employees between January 1, 1963 and December 31, 1965 should be allowed instead if just in 1965. This way, more mentors will be available for new hires and can support new employees in a better way.
+
+
