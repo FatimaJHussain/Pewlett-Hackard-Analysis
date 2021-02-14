@@ -36,3 +36,13 @@ In deliverble 2, one table of "Mentorship Eligibility" is created. Which holds t
 
 Figure-4: 
 Mentorship Eligibility![Mentorship Eligibility](https://github.com/FatimaJHussain/Pewlett-Hackard-Analysis/blob/main/mentorship.png)
+
+### Analysis of Deliverable 2
+There are 1549 employees, eligible for mentorship program.:
+* 63 are Assistant Engineer
+* 387 are Engineers
+* 298 are Senior Engineer
+* 417 are Senior Staff
+* 307 are Staff
+* 77 are Technique Leader
+# Summary
