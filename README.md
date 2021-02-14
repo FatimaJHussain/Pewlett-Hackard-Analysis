@@ -1,6 +1,7 @@
 # Pewlett-Hackard-Analysis
 # Overview of Analysis
-The purpose of this analysis is to create two table:
+This analysis is performed to determine the number of retiring employees per title, and to identify employees who are eligible to participate in a mentorship program.
+For this analysis, two tables are obtained:
 * First table list all the Retiring Employees along with thier titles
 * Second table list all the Employees Eligible for the Mentorship Program
 
