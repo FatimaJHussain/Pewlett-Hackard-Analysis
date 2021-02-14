@@ -46,3 +46,4 @@ There are 1549 employees, eligible for mentorship program.:
 * 307 are Staff
 * 77 are Technique Leader
 # Summary
+By comparing the results of two deliverable , there are 90398 positions to be filled due to retirement wave.  Out of these 1549 employees are eligible for mentorship program. This shows that there is 1 mentor for every 58 new hire employees.
